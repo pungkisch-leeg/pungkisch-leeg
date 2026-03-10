@@ -1,8 +1,9 @@
 <div align="center">
 
-# pungkischleeg
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=28&pause=1000&color=00FF9C&width=435&lines=pungkischleeg&center=true&vCenter=true&repeat=true)
 
 </div>
+
 
 <div align="center">
 
@@ -10,11 +11,7 @@ Frontend Developer | Web3 Builder Interfaces • dApps • Experiments
 
 </div>
 
-<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=07EEF2&width=435&lines=pungkischleeg&center=true&vCenter=true&repeat=true)
-
-</div>
 
 ## **⚒️ Skills**
 ### **Programming Languages**
